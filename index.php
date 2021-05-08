@@ -39,7 +39,7 @@
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Oláaa, sejam bem vindos,</div>
-                <div class="masthead-heading text-uppercase">Hoje temos uma super promoção de Iphone 6s!</div>
+                <div class="masthead-heading text-uppercase">Hoje temos uma super promoção de Iphone!</div>
                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
             </div>
         </header>
