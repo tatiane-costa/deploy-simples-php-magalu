@@ -40,7 +40,7 @@
             <div class="container">
                 <div class="masthead-subheading">Oláaa, sejam bem vindos,</div>
                 <div class="masthead-heading text-uppercase">Hoje temos uma super promoção de Iphone!</div>
-                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://api.whatsapp.com/send?phone=55111111111111&text=Ol%C3%A1%2C%20tem%20interesse%20em%20comprar%20o%20telefone%3F">Entre em contato</a>
             </div>
         </header>
         <!-- Services-->
